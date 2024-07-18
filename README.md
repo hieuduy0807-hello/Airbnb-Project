@@ -1,1 +1,2 @@
 # Airbnb-Project
+This dataset, collected from Kaggle, includes information about guests and hosts who have used Airbnb to expand their travel possibilities and offer more unique, personalized ways of experiencing the world. It describes the listing activity and metrics in NYC, NY, for 2019. Based on this dataset, I conducted an analysis of the average price and number of reviews based on neighborhoods. Additionally, I listed the top 10 most expensive listings and calculated the average availability of days over a year based on neighborhoods.
